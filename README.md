@@ -2,9 +2,9 @@
 
 ## I made publicly available my configuration, so people struggling like I was can at least get closer to a solution.
 
-### Check this post on Reddit, for which I made this repository:
+### Check this post on InsanelyMac, for which I made this repository:
 
-#### https://www.reddit.com/r/hackintosh/comments/yzpjc0/success_monterey_on_atermiter_x79_e52620v2_amd/
+#### https://www.insanelymac.com/forum/topic/354837-success-monterey-on-atermiter-x79-e5-2620v2-amd-rx6600-opencore-086/
 
 ### The hardwae this is made for:
 
@@ -16,7 +16,7 @@
 - Ethernet Card: Realtek RTL8111.
 - Wifi/BT Card: CSR 4.0 Bluetooth USB card (Qualcomm/Cambridge Silicon Radio CSR8510).
 
-### I mad three different EFI configurations as described below:
+### I made three different EFI configurations as described below:
 
 - [EFI VirtualSMC-INSTALLATION](https://github.com/VivaPeron/EFI-OC-AtermiterX79-E5-2620v2-RX6600/tree/main/EFI%20VirtualSMC-INSTALLATION): This is for booting the installer. It has video acceleration disabled.
 - [EFI VirtualSMC](https://github.com/VivaPeron/EFI-OC-AtermiterX79-E5-2620v2-RX6600/tree/main/EFI%20VirtualSMC): This one is very stable and safe to use to boot into the Monterey right after it's been installed. Includes BrcmPatchRAM.
