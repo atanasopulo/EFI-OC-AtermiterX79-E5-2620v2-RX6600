@@ -2,6 +2,10 @@
 
 ## I made publicly available my configuration, so people struggling like I was can at least get closer to a solution.
 
+### Check this post on Reddit, for which I made this repository:
+
+#### https://www.reddit.com/r/hackintosh/comments/yzpjc0/success_monterey_on_atermiter_x79_e52620v2_amd/
+
 ### The hardwae this is made for:
 
 - CPU: Xeon E5-2620 v2 | 6 cores 12 threads | 2.1Ghz turbo 2.6Ghz.
